@@ -55,6 +55,6 @@ body {
 
 .equal-sign {
     grid-column: span 2;
-    background-color: #5cb85c;
-    color: red;
+    background-color: orange;
+    color: white;
 }
