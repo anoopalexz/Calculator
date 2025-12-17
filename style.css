@@ -50,11 +50,11 @@ body {
 
 .operator {
     background-color: #f0ad4e;
-    color: white;
+    color: red;
 }
 
 .equal-sign {
     grid-column: span 2;
     background-color: #5cb85c;
-    color: white;
+    color: red;
 }
